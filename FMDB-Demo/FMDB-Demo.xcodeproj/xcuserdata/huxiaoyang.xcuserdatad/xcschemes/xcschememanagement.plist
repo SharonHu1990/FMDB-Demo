@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>FMDB-Demo.xcscheme</key>
+		<key>FMDB-DEMO.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>0AD79AB71BAC0EC700B5CAE8</key>
+		<key>0A28663F1BB12FB400C797CD</key>
 		<dict>
 			<key>primary</key>
 			<true/>

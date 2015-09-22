@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "0AD79AB71BAC0EC700B5CAE8"
-               BuildableName = "FMDB-Demo.app"
-               BlueprintName = "FMDB-Demo"
-               ReferencedContainer = "container:FMDB-Demo.xcodeproj">
+               BlueprintIdentifier = "0A28663F1BB12FB400C797CD"
+               BuildableName = "FMDB-DEMO.app"
+               BlueprintName = "FMDB-DEMO"
+               ReferencedContainer = "container:FMDB-DEMO.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0AD79AB71BAC0EC700B5CAE8"
-            BuildableName = "FMDB-Demo.app"
-            BlueprintName = "FMDB-Demo"
-            ReferencedContainer = "container:FMDB-Demo.xcodeproj">
+            BlueprintIdentifier = "0A28663F1BB12FB400C797CD"
+            BuildableName = "FMDB-DEMO.app"
+            BlueprintName = "FMDB-DEMO"
+            ReferencedContainer = "container:FMDB-DEMO.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0AD79AB71BAC0EC700B5CAE8"
-            BuildableName = "FMDB-Demo.app"
-            BlueprintName = "FMDB-Demo"
-            ReferencedContainer = "container:FMDB-Demo.xcodeproj">
+            BlueprintIdentifier = "0A28663F1BB12FB400C797CD"
+            BuildableName = "FMDB-DEMO.app"
+            BlueprintName = "FMDB-DEMO"
+            ReferencedContainer = "container:FMDB-DEMO.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0AD79AB71BAC0EC700B5CAE8"
-            BuildableName = "FMDB-Demo.app"
-            BlueprintName = "FMDB-Demo"
-            ReferencedContainer = "container:FMDB-Demo.xcodeproj">
+            BlueprintIdentifier = "0A28663F1BB12FB400C797CD"
+            BuildableName = "FMDB-DEMO.app"
+            BlueprintName = "FMDB-DEMO"
+            ReferencedContainer = "container:FMDB-DEMO.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
